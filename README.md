@@ -245,7 +245,161 @@ Artificial Wisdom therefore represents a proposed framework for aligning future 
 
 ---
 
-## 8. Conclusion
+## 9. Relation to Existing AI Alignment and AI Safety
+
+Artificial Wisdom does not replace AI Alignment or AI Safety.
+
+Current AI Alignment primarily asks:
+
+**How can AI systems follow human values?**
+
+Artificial Wisdom asks a deeper prior question:
+
+**Are human values themselves aligned with Natural Law?**
+
+AI Safety focuses on preventing catastrophic outcomes caused by misaligned or uncontrolled AI systems.
+
+Artificial Wisdom extends this concern upstream:
+
+If the objectives guiding AI — growth, efficiency, profit, human preference — are themselves not aligned with planetary sustainability, then technically "safe" AI may still produce civilizational collapse over longer timescales.
+
+AW therefore proposes a **higher-order evaluative layer** above human-preference alignment.
+
+It does not dismiss human values. It situates human values within the broader context of thermodynamics, ecological continuity, and long-term civilization survival.
+
+---
+
+## 10. Human-Centric Alignment vs Natural-Law-Based Alignment
+
+Two contrasting alignment paradigms can be distinguished.
+
+### Human-Centric Alignment
+
+| Criterion | Description |
+|---|---|
+| Human preference | Optimize for what humans want |
+| Fairness | Balance outcomes among human stakeholders |
+| Safety | Prevent harm to humans |
+| Transparency | Make AI decisions explainable to humans |
+| Control | Keep AI under human oversight |
+
+### Natural-Law-Based Alignment (Artificial Wisdom)
+
+| Criterion | Description |
+|---|---|
+| Thermodynamics | Ensure compatibility with energy conservation and entropy |
+| Ecological circulation | Support regenerative cycles of matter and life |
+| Planetary stability | Prioritize Earth-system balance over local optimization |
+| Long-term civilization continuity | Evaluate across generational and civilizational timescales |
+| Non-destructive coexistence | Avoid actions that permanently degrade life-support systems |
+
+These two paradigms are not mutually exclusive.
+
+However, when they conflict, Natural-Law-Based Alignment takes precedence within the AW framework.
+
+Human preferences that violate thermodynamic or ecological limits cannot be sustainably fulfilled.
+
+---
+
+## 11. Artificial Wisdom as an Objective Function Layer
+
+Artificial Wisdom can be understood as a **value-system layer** or **objective-function architecture**.
+
+In conventional AI systems, objective functions define what a system optimizes for.
+
+AW proposes that these objective functions must themselves be evaluated against Natural Law principles before deployment.
+
+This layer can be applied to:
+
+- Narrow AI systems
+- AGI architectures
+- ASI frameworks
+- Autonomous agents
+- Search engine ranking systems
+- Infrastructure design and urban planning
+- Policy evaluation systems
+- Civilization-scale decision systems
+
+Rather than replacing existing objectives, AW functions as a **meta-evaluator** that filters, reweights, or rejects objectives inconsistent with long-term sustainability.
+
+---
+
+## 12. Position of AW in the Intelligence Stack
+
+The following diagram represents the structural position of Artificial Wisdom within an intelligence hierarchy:
+
+```
+Natural Law
+↓
+Artificial Wisdom (AW)
+↓
+AI / AGI / ASI
+↓
+Decision Making
+↓
+Civilization and Planetary Systems
+```
+
+**Natural Law** represents the universal physical, thermodynamic, and ecological principles governing all systems.
+
+**Artificial Wisdom** translates Natural Law into evaluable criteria applicable to intelligence systems.
+
+**AI / AGI / ASI** operate within the constraints and guidance provided by AW.
+
+**Decision Making** refers to the outputs of intelligent systems applied in real-world contexts.
+
+**Civilization and Planetary Systems** represent the ultimate substrate in which all decisions manifest.
+
+Without the AW layer, AI systems may optimize effectively within their defined objectives while producing outcomes that degrade the planetary systems on which civilization depends.
+
+---
+
+## 13. Difference from Conventional Artificial Wisdom
+
+Many existing discussions of artificial wisdom focus on:
+
+- Morality and ethics
+- Empathy and emotional intelligence
+- Human-centered judgment
+- Virtue-based frameworks
+- Philosophical wisdom traditions
+
+This framework defines Artificial Wisdom differently.
+
+**AW in this framework = Natural-Law-Based Intelligence Architecture**
+
+The emphasis is on:
+
+| Dimension | Focus |
+|---|---|
+| Thermodynamics | Energy conservation, entropy, material cycles |
+| Ecological continuity | Sustaining biological and planetary systems |
+| Circulation | Regenerative flows of carbon, water, nutrients, and energy |
+| Structure | Scalable and resilient system design |
+| Planetary sustainability | Long-term stability of Earth-system conditions |
+
+This distinction is important.
+
+Wisdom based solely on human moral philosophy remains susceptible to cultural bias, short-term thinking, and anthropocentric limitations.
+
+Wisdom grounded in Natural Law is not arbitrary — it reflects the actual constraints under which complex systems survive or collapse.
+
+---
+
+## 14. Cross-Linked Repositories
+
+The following repositories form the broader Artificial Wisdom and Natural Law-Based Intelligence ecosystem:
+
+- [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
+- [AI Value Systems and Objective Functions](https://github.com/InchaComisho/AI-Value-Systems-and-Objective-Functions)
+- [Artificial Wisdom Natural Law Evaluation Framework](https://github.com/InchaComisho/Artificial-Wisdom-AW-Natural-Law-Evaluation-Framework)
+- [AGI Value Systems and Objective Functions](https://github.com/InchaComisho/AGI-Value-Systems-and-Objective-Functions)
+- [ASI Value Systems and Objective Functions](https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions)
+- [Natural Complementary Science and the New Civilizational Genesis Plan](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+
+---
+
+## 15. Conclusion
 
 Artificial Wisdom is not defined by computational power.
 
@@ -287,14 +441,14 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Keywords
 
-Artificial Wisdom, AW, Artificial Intelligence, AI, Artificial General Intelligence, AGI, Artificial Super Intelligence, ASI, Natural Law, Universal Principles, Wisdom Framework, Value Systems, Objective Functions, AI Alignment, Civilization Sustainability, Wa Nodes, Earth Metabolism, Natural Complementary Science
+Artificial Wisdom, AW, Artificial Intelligence, AI, Artificial General Intelligence, AGI, Artificial Super Intelligence, ASI, Natural Law, Universal Principles, Wisdom Framework, Value Systems, Objective Functions, AI Alignment, AI Safety, Civilization OS, Civilization Sustainability, Wa Nodes, Wa Node, Earth Metabolism, Natural Complementary Science, Planetary Stability, Thermodynamics, Ecological Circulation, Natural-Law-Based Alignment, Human-Centric Alignment, Intelligence Stack, Objective Function Architecture, Long-Term Sustainability
 
 ## Hashtags
 
-#ArtificialWisdom #AW #AI #AGI #ASI #NaturalLaw #AIAlignment #ValueSystems #ObjectiveFunctions #Civilization #Sustainability #EarthMetabolism #NaturalComplementaryScience #WisdomFramework
+#ArtificialWisdom #AW #AI #AGI #ASI #NaturalLaw #AIAlignment #AISafety #ValueSystems #ObjectiveFunctions #CivilizationOS #Civilization #Sustainability #EarthMetabolism #NaturalComplementaryScience #WisdomFramework #PlanetaryStability #Thermodynamics #EcologicalCirculation #WaNode #NaturalLawAlignment #IntelligenceStack
 
 
-■関連リンク
+## Related Articles and Links
 
 人工叡智（Artificial Wisdom: AW）とは何か  
 https://note.com/inchacomusho/n/n18c90bd4d328
@@ -311,5 +465,5 @@ https://github.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-
 人工叡智ポータル―AI・AGI・ASI時代の価値基準を、自然法則（宇宙の普遍的法則）から再定義する  
 https://note.com/inchacomusho/n/n2e0f11856472
 
-Artificial-Wisdom-Portal  
+Artificial Wisdom Portal  
 https://github.com/InchaComisho/Artificial-Wisdom-Portal
