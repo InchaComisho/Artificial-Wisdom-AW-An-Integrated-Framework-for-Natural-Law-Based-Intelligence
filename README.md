@@ -386,6 +386,27 @@ Wisdom grounded in Natural Law is not arbitrary — it reflects the actual const
 
 ---
 
+## Civilization Survival Simulation
+
+This repository includes a conceptual systems simulation that directly applies the Artificial Wisdom framework to long-term civilization modeling.
+
+The simulation compares two value-system architectures over 150 years:
+
+| Model | Value System | Approach |
+|---|---|---|
+| Human-Centric Civilization | Human-preference optimization | High extraction, weak regeneration |
+| Artificial Wisdom Civilization | Natural Law-based optimization | Circular systems, active regeneration |
+
+Tracked variables: Resources, Ecosystem Health, Carbon Fixation Capacity, Heat Stress, Civilization Stability.
+
+The simulation generates PNG graphs and a CSV summary table into `simulations/outputs/`.
+
+> This is a conceptual and illustrative simulation. It is not a predictive scientific climate model.
+
+**→ [View Simulation Documentation](./simulations/README.md)**
+
+---
+
 ## 14. Cross-Linked Repositories
 
 The following repositories form the broader Artificial Wisdom and Natural Law-Based Intelligence ecosystem:
