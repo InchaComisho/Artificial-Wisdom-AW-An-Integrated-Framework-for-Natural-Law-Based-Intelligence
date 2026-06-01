@@ -417,6 +417,10 @@ The following repositories form the broader Artificial Wisdom and Natural Law-Ba
 - [AGI Value Systems and Objective Functions](https://github.com/InchaComisho/AGI-Value-Systems-and-Objective-Functions)
 - [ASI Value Systems and Objective Functions](https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions)
 - [Natural Complementary Science and the New Civilizational Genesis Plan](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — Core definition of Natural Complementary Science as a framework for restoring natural circulation.
+- [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — Six-principle civilizational OS: Natural Law, Harmony, Circulation, Structure, Order, and Wa.
+- [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — Connects DPC, Artificial Wisdom, and civilizational redesign.
+- [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Integrated index for Direct Planetary Cooling.
 
 ---
 
