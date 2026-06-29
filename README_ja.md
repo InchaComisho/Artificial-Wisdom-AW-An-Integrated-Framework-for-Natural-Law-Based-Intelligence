@@ -597,11 +597,11 @@ AGI、ASI、人工叡智（AW）の将来設計には、知性の価値基準だ
 
 ## ライセンス
 
-**CC BY-SA 4.0**
+**CC BY 4.0**
 
 本文書は **クリエイティブ・コモンズ 表示—継承 4.0 国際ライセンス** のもとで公開されています。
 
-https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by/4.0/
 
 ## キーワード
 

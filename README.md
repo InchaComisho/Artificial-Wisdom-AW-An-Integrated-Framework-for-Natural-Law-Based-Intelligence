@@ -593,11 +593,11 @@ The following resources connect AW / AGI / ASI research with optical quantum com
 
 ## License
 
-**CC BY-SA 4.0**
+**CC BY 4.0**
 
-This document is released under the **Creative Commons Attribution-ShareAlike 4.0 International License**.
+This document is released under the **Creative Commons Attribution 4.0 International License**.
 
-https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by/4.0/
 
 ## Keywords
 
@@ -627,3 +627,13 @@ https://note.com/inchacomusho/n/n2e0f11856472
 
 Artificial Wisdom Portal  
 https://github.com/InchaComisho/Artificial-Wisdom-Portal
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
