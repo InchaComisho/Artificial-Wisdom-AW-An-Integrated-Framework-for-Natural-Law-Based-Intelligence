@@ -1,5 +1,7 @@
 # 人工叡智（AW）：自然法則に基づく知性の統合フレームワーク
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 普遍的自然原則によるAI・AGI・ASIの再定義
 
 > **本文書は英語原文（README.md）の日本語訳です。**  

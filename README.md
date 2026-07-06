@@ -1,5 +1,7 @@
 # Artificial Wisdom (AW): An Integrated Framework for Natural Law-Based Intelligence
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Redefining AI, AGI, and ASI Through Universal Natural Principles
 
 ---
