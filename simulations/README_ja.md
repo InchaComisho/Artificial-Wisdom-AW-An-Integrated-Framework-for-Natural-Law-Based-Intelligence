@@ -147,7 +147,7 @@ AWは、知能システム — AI、AGI、ASI、あるいは文明規模の意�
 
 理論的な枠組みの全体については、次を参照してください。
 
-- [Artificial Wisdom (AW): An Integrated Framework](../README.md)
+- [Artificial Wisdom (AW): An Integrated Framework](../README_ja.md)
 - [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
 
 ---

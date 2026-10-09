@@ -148,7 +148,7 @@ AWは、AI・AGI・ASI・または文明規模の意思決定アーキテクチ�
 
 完全な理論的フレームワークについては以下を参照してください。
 
-- [人工叡智（AW）：統合フレームワーク（英語）](../README.md)
+- [人工叡智（AW）：統合フレームワーク（英語）](../README_ja.md)
 - [人工叡智（AW）：統合フレームワーク（日本語）](../README_ja.md)
 - [Artificial Wisdom Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal)
 
