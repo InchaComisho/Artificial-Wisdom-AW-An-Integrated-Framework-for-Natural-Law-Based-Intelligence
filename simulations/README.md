@@ -1,5 +1,7 @@
 # Civilization Survival Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 ## Comparing Human-Centric and Artificial Wisdom Value Systems Over 150 Years
 
 ---
